@@ -76,7 +76,4 @@ This analysis suite can be used for:
 - Microsoft Excel (for .xlsx files)
 - PDF reader (for summary report)
 
-## Last Updated
-May 2023
-
 ---
