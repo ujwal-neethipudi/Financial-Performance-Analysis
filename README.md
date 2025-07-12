@@ -11,6 +11,7 @@ This repository contains a comprehensive financial performance analysis for Moul
 ├── Profit and Margin.xlsx   # Profit analysis and margin calculations (94 KB)
 ├── Seasonality.xlsx         # Seasonal trends and patterns analysis (85 KB)
 ├── TVA and NPV.xlsx         # Time Value of Money and Net Present Value calculations (26 KB)
+└── Reference Letter.pdf     # Reference Letter from EntryLevel in support of exemplary work (121 KB)
 └── README.md               # This file
 ```
 
